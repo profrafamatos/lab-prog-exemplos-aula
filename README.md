@@ -23,7 +23,10 @@ Os exemplos e os micro exercícios foram desenvolvidos durante a aula com o obje
     ├── exemplo02.py
     ├── exemplo03.py
     ├── exemplo04.py
+    ├── exemplo05.py
+    ├── exemplo06.py
     ├── microexercicio01.py
     ├── microexercicio02.py
     ├── microexercicio03.py
+    ├── microexercicio04.py
     └── 
