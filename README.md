@@ -16,6 +16,7 @@ Os exemplos e os micro exercícios foram desenvolvidos durante a aula com o obje
 - A instrução path
 
 ## Estrutura do Repositório
+```bash
 aula02/
 │
 ├── exemplo01.py
