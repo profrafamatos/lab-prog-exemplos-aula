@@ -8,8 +8,9 @@ Os exemplos e os micro exercícios foram desenvolvidos durante a aula com o obje
 
 - Compreender as estruturas condicionais em Python
 - if
-- elif
 - else
+- elif
+- match
 - shorthand if
 - if-else ternário
 - Operadores lógicos
@@ -17,9 +18,12 @@ Os exemplos e os micro exercícios foram desenvolvidos durante a aula com o obje
 
 ## Estrutura do Repositório
 ```bash
-aula02/
-│
-├── exemplo01.py
-├── exemplo02.py
-├── microexercicio01.py
-└── 
+    aula02/
+    ├── exemplo01.py
+    ├── exemplo02.py
+    ├── exemplo03.py
+    ├── exemplo04.py
+    ├── microexercicio01.py
+    ├── microexercicio02.py
+    ├── microexercicio03.py
+    └── 
